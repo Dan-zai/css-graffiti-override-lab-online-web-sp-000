@@ -1,8 +1,4 @@
-body #wall * {
-    display: none;
-}
-
-#wall #tag-3.slick.wicked { 
+#wall .tag-1 {
   display: none;
 }
 
@@ -10,3 +6,10 @@ body #wall #tag-2 {
   display: none;
 }
 
+#wall #tag-3.slick.wicked { 
+  display: none;
+}
+
+.parent { 
+  display: none;
+}
